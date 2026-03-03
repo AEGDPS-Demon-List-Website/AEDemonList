@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/Z3zRDzM3RTQ",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
+    "records": [        
+        {
+            "user": "Zust",
+            "link": "https://youtu.be/J9VolgK9sEM?si=j_FWybzwa_ibfZUc",
+            "percent": "100",
+            "hz": "240"
+        }
     ]
 }

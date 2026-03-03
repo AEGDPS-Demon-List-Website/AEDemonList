@@ -1,0 +1,35 @@
+{
+    "id": 106,
+    "name": "medim demon",
+    "author": "AEGMD",
+    "creators": [],
+    "verifier": "AEGMD",
+    "verification": "Not Needed",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [        
+        {
+            "user": "Zust",
+            "link": "Not Needed",
+            "percent": "100",
+            "hz": "240"
+        },       
+        {
+            "user": "An4rchh",
+            "link": "Not Needed",
+            "percent": "100",
+            "hz": "240"
+        },        {
+            "user": "Avanter",
+            "link": "Not Needed",
+            "percent": "100",
+            "hz": "240"
+        },        
+        {
+            "user": "Synx",
+            "link": "Not Needed",
+            "percent": "100",
+            "hz": "240"
+        },
+    ]
+}

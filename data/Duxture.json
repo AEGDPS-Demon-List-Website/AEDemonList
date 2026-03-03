@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/PBQWxeUogps?si=417lyH01nPNuBOtS",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
+    "records": [        
+        {
+            "user": "Synx",
+            "link": "https://youtu.be/GKuQBYPDy1o",
+            "percent": "100",
+            "hz": "60"
+        }
     ]
 }

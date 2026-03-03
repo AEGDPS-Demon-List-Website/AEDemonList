@@ -1,0 +1,24 @@
+{
+    "id": 117,
+    "name": "Tidal",
+    "author": "Mxhsty",
+    "creators": [],
+    "verifier": "Mxhsty",
+    "verification": "Not Needed",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [        
+        {
+            "user": "Zust",
+            "link": "Not Needed",
+            "percent": "100",
+            "hz": "240"
+        },       
+        {
+            "user": "An4rchh",
+            "link": "Not Needed",
+            "percent": "100",
+            "hz": "240"
+        }
+    ]
+}

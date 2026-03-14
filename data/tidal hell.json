@@ -1,0 +1,18 @@
+{
+    "id": 182,
+    "name": "Tidal Hell",
+    "author": "Synx",
+    "creators": [],
+    "verifier": "Synx",
+    "verification": "novid",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [        
+        {
+            "user": "Zorte",
+            "link": "novid",
+            "percent": "100",
+            "hz": "240"
+        }
+    ]
+}

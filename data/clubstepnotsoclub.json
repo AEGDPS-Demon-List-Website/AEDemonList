@@ -1,0 +1,18 @@
+{
+    "id": 196,
+    "name": "clubstep not so club",
+    "author": "An4rchh",
+    "creators": ["An4rchh"],
+    "verifier": "An4rchh",
+    "verification": "https://youtu.be/TKUFEYj-M58?si=qMIoA1JvCofGMTiO",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [        
+        {
+            "user": "Zust",
+            "link": "https://youtu.be/TKUFEYj-M58?si=qMIoA1JvCofGMTiO",
+            "percent": "100",
+            "hz": "240"
+        }
+    ]
+}

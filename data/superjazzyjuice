@@ -1,0 +1,24 @@
+{
+    "id": 193,
+    "name": "SuperJazzyJuice",
+    "author": "zZorte",
+    "creators": ["zZorte"],
+    "verifier": "zZorte",
+    "verification": "notneeded",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [        
+        {
+            "user": "Zust",
+            "link": "notneeded",
+            "percent": "100",
+            "hz": "240"
+        },
+        {
+            "user": "An4rchh",
+            "link": "notneeded",
+            "percent": "100",
+            "hz": "240"
+        }
+    ]
+}

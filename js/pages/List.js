@@ -124,9 +124,6 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <p>
-                        No Hide Player is allowed unless its a memory part and only on copies that are allowed
-                    </p>
-                    <p>
                         Full recording is required
                     </p>
                     <p>

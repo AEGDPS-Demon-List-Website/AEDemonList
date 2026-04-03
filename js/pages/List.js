@@ -13,6 +13,13 @@ const roleIconMap = {
     dev: "code",
     trial: "user-lock",
 };
+<div class="sidebar">
+  <div id="searchbar"></div> <!-- ADD IT HERE -->
+
+  <div class="list">
+    <!-- your levels -->
+  </div>
+</div>
 
 export default {
     components: { Spinner, LevelAuthors },
